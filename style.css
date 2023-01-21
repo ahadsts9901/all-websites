@@ -1,41 +1,40 @@
 *{
     font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
-    color: rgb(9, 33, 100);
+    color: rgba(82, 3, 29, 0.877);
 }
 
 body{
-    background-color: white;
+    background-color: rgba(82, 3, 29,0.15) ;
     font-size: 32px;
 }
 
 h1, p{
     text-align: center;
-    color: rgb(9, 33, 100);
+    color: rgba(82, 3, 29, 0.877);
 }
 
 .firstcolor{
     text-align: center;
-    background-color: rgba(19, 54, 151, 0.877);
+    background-color: rgba(82, 3, 29, 0.877);
     color: white;
     text-decoration: none;
 }
 
 .secondcolor{
     text-align: center;
-    background-color: white;
-    color: rgb(9, 33, 100);
+    color: rgba(82, 3, 29, 0.877);
     text-decoration: none;
 }
 
 table, th, td{
-    border: 2px solid rgba(19, 54, 151, 0.877);
+    border: 2px solid rgba(82, 3, 29, 0.877);
     border-collapse: collapse;
     text-align: center;
 }
 
 hr{
-    border-top: 2px solid rgba(19, 54, 151, 0.877);
+    border-top: 2px solid rgba(82, 3, 29, 0.877);
 }
 
 td{
