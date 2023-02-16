@@ -4,9 +4,34 @@
     color: rgba(82, 3, 29, 0.877);
 }
 
+header{
+    position: sticky;
+    top:0 ;
+    z-index: 20;
+    width: 100%;
+    background-color: #e5d9dd;
+}
+
+footer{
+    position: fixed;
+    bottom:0 ;
+    z-index: 20;
+    width: 100%;
+    background-color: #e5d9dd;
+}
+
 body{
     background-color: rgba(82, 3, 29,0.15) ;
     font-size: 32px;
+}
+
+td a{
+    display: block;
+}
+
+td a:hover{
+    color:white;
+    background-color: rgba(82, 3, 29, 0.877);
 }
 
 h1, p{
